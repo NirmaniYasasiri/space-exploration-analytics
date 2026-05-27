@@ -5,7 +5,7 @@
 > rise of commercial spaceflight.
 
 ## 📊 Dashboard Preview
-![Dashboard](powerbi/dashboard_preview.png)
+![Dashboard](outputs/dashboard_preview.png)
 
 ## 🔍 Key Findings
 - Overall mission success rate: **89.7%** across 63 years
